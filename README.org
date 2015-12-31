@@ -4,7 +4,7 @@
 
 This Emacs package can be used to change the names of major and minor
 modes that are displayed in the mode-line.  This is an alternative to
-[[http://www.emacswiki.org/emacs/delight.el][delight]] package (see [[*Why?][Why?]] section below).
+[[http://www.emacswiki.org/emacs/delight.el][delight]] package (see [[https://github.com/alezost/dim.el/#why][Why?]] section below).
 
 ** Installation
 
